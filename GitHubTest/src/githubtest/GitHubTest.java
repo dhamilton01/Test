@@ -21,6 +21,7 @@ public class GitHubTest {
         System.out.println("New branch, second commit");
         System.out.println("1 Branch 3");
         System.out.println("2 Branch 3");
+        System.out.println(" accept pull");
     }
     
 }
