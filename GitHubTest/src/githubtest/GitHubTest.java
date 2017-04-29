@@ -16,12 +16,7 @@ public class GitHubTest {
      */
     public static void main(String[] args) {
         System.out.println("Hello");
-        System.out.println("DesktopChanged");
-        System.out.println("New branch?");
-        System.out.println("New branch, second commit");
-        System.out.println("1 Branch 3");
-        System.out.println("2 Branch 3");
-        System.out.println(" accept pull");
+        System.out.println("My Branch");
     }
     
 }
