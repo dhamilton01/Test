@@ -19,6 +19,7 @@ public class GitHubTest {
         System.out.println("DesktopChanged");
         System.out.println("New branch?");
         System.out.println("New branch, second commit");
+        System.out.println("Branch 3");
     }
     
 }
