@@ -24,6 +24,8 @@ public class GitHubTest {
         System.out.println("Need to push");
         
         System.out.println("Need to push desk");
+        
+        int a = 2;
     }
     
 }
