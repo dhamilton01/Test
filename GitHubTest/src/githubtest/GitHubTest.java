@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package githubtest;
-
 /**
  *
  * @author Daniel
@@ -18,6 +17,13 @@ public class GitHubTest {
         System.out.println("Hello");
         System.out.println("My Branch");
         System.out.println("Second Branch");
+        System.out.println("From laptop");
+        System.out.println("New Cha\ngesd");
+        System.out.println("");
+        
+        System.out.println("Need to push");
+        
+        System.out.println("Need to push desk");
     }
     
 }
