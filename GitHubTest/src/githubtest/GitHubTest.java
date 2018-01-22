@@ -27,6 +27,8 @@ public class GitHubTest {
         
         int a = 2;
         System.out.println(a+4);
+        
+        System.out.println(a-4);
     }
     
 }
